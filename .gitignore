@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Data files
+*.csv
+*.tsv
+*.log
+*.sqlite
+*.db
+*.h5
+
+# Environment and dependency files
+*.env
+Pipfile
+Pipfile.lock
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Build directories
+build/
+dist/
+
+# Logs and temporary files
+*.log
+*.tmp
